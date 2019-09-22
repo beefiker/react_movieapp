@@ -41,7 +41,7 @@ class App extends React.Component {
     const { isLoading, movies } = this.state;
     return (
       <section className="container">
-        {isLoading ? (
+        {isLoading ? ( // es6의 if문 같은건데, isLoading이 true이면 Loading을 보여주고, DidMount가 되어서 getMovies()를 실행시키면 isLoading을 false로 바꿔서 Movie 리스트를 보여주게 함.
           <div className="loader">
             <span className="loader_text"> Loading...</span>
           </div>
