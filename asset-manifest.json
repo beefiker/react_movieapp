@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/beefiker/react_movieapp/static/css/main.6262bd94.chunk.css",
-    "main.js": "/beefiker/react_movieapp/static/js/main.7f77c81d.chunk.js",
-    "main.js.map": "/beefiker/react_movieapp/static/js/main.7f77c81d.chunk.js.map",
-    "runtime~main.js": "/beefiker/react_movieapp/static/js/runtime~main.374a3932.js",
-    "runtime~main.js.map": "/beefiker/react_movieapp/static/js/runtime~main.374a3932.js.map",
-    "static/js/2.d5e1489f.chunk.js": "/beefiker/react_movieapp/static/js/2.d5e1489f.chunk.js",
-    "static/js/2.d5e1489f.chunk.js.map": "/beefiker/react_movieapp/static/js/2.d5e1489f.chunk.js.map",
-    "index.html": "/beefiker/react_movieapp/index.html",
-    "precache-manifest.19ddea0b1a4309e32cac4583a347aac9.js": "/beefiker/react_movieapp/precache-manifest.19ddea0b1a4309e32cac4583a347aac9.js",
-    "service-worker.js": "/beefiker/react_movieapp/service-worker.js",
-    "static/css/main.6262bd94.chunk.css.map": "/beefiker/react_movieapp/static/css/main.6262bd94.chunk.css.map"
+    "main.css": "/react_movieapp/static/css/main.6262bd94.chunk.css",
+    "main.js": "/react_movieapp/static/js/main.7f77c81d.chunk.js",
+    "main.js.map": "/react_movieapp/static/js/main.7f77c81d.chunk.js.map",
+    "runtime~main.js": "/react_movieapp/static/js/runtime~main.dcb94441.js",
+    "runtime~main.js.map": "/react_movieapp/static/js/runtime~main.dcb94441.js.map",
+    "static/js/2.d5e1489f.chunk.js": "/react_movieapp/static/js/2.d5e1489f.chunk.js",
+    "static/js/2.d5e1489f.chunk.js.map": "/react_movieapp/static/js/2.d5e1489f.chunk.js.map",
+    "index.html": "/react_movieapp/index.html",
+    "precache-manifest.7f815f8bbeb9876b139f7c8dd58d29cb.js": "/react_movieapp/precache-manifest.7f815f8bbeb9876b139f7c8dd58d29cb.js",
+    "service-worker.js": "/react_movieapp/service-worker.js",
+    "static/css/main.6262bd94.chunk.css.map": "/react_movieapp/static/css/main.6262bd94.chunk.css.map"
   }
 }
